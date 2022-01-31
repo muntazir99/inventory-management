@@ -1,3 +1,5 @@
+/* MUNTAZIR JAHANGIR  [RA2111047010138]
+   ADITYA PANDEY      [RA2111047010153] */
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
